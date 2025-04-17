@@ -1,34 +1,37 @@
-# Experiment No: 1 Python Basics- Printing Multiline String
+# Experiment No: 1 - Python Basics - Printing Multiline String
 
 ## AIM  
-To create a Python program to print the string in multiple lines using triple quotes.
+To create a Python program to represent strings in multiple formats.
 
 ## ALGORITHM  
-1. Begin the program.  
-2. Use triple quotes (`'''` or `"""`) to define a string that spans multiple lines.  
-3. Use the `print()` function to display the multi-line string.  
+1. Define a string to be printed in a single line.
+2. Define a string that will be split into multiple lines with indentation on the second line.
+3. Use the `print()` function to display the strings.
 4. Terminate the program.
 
 ## PROGRAM
+
 ```python
-# Reg.No-
-# Name-
+# Reg.No- 
+# Name- 
+
 # Write your code here
 
-string_single_quotes = '''I am a string literal
-... has more than one
-... line
-... placed inside triple single quotes'''
+# Single-line string
+result1 = "SaveethaEng"
 
-string_double_quotes = """I am a string literal
-... has more than one
-... line
-... placed inside triple double quotes"""
+# Multiline string with indentation on the second line
+result2 = """Saveetha
+        Eng"""
 
-print(string_single_quotes)
-print(string_double_quotes)
+# Printing the results
+print(result1)
+print(result2)
+
 ```
-## OUTPUT
+##  Output
 
-## RESULT
+## result
+
+
 
