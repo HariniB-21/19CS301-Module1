@@ -29,7 +29,7 @@ print("The maximum of {}, {}, {} is {}".format(a,b,c,e))
 
 
 ## OUTPUT
-![Screenshot 2025-05-03 144452](https://github.com/user-attachments/assets/00d9c959-fbe7-4090-aa44-3ac288294003)
+![image](https://github.com/user-attachments/assets/dcb513c0-adfc-40dc-ae0e-90a8f9d45f49)
 
 ## RESULT
    Thus the Python program to find the maximum between three integer numbers using a conditional expression (Ternary operator) was executed successfully.
