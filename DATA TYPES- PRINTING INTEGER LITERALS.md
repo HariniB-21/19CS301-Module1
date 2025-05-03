@@ -11,8 +11,8 @@ To write a Python program to print the following integer literals: 12.
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
+# Reg.No-212222020008
+# Name-Harini B
 # Write your code here
 
 a = 12
