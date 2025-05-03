@@ -1,7 +1,7 @@
 # Experiment No: 1 - Python Basics - Printing Multiline String
 
 ## AIM  
-To create a Python program to represent strings in multiple formats.
+To Create a python program to print the string in multiline.
 
 ## ALGORITHM  
 1. Define a string to be printed in a single line.
@@ -12,26 +12,20 @@ To create a Python program to represent strings in multiple formats.
 ## PROGRAM
 
 ```python
-# Reg.No- 
-# Name- 
+# Reg.No- 212222020008
+# Name- Harini B
 
 # Write your code here
-
-# Single-line string
-result1 = "SaveethaEng"
-
-# Multiline string with indentation on the second line
-result2 = """Saveetha
-        Eng"""
-
-# Printing the results
-print(result1)
-print(result2)
+a=("I am a string literal\n... has more than one\n... line\n....placed inside triple single quotes")
+b=("I am a string literal\n... has more than one\n... line\n....placed inside triple double quotes")
+print(a)
+print(b)
 
 ```
 ##  Output
+![image](https://github.com/user-attachments/assets/f18a737f-bfa8-453d-b2dd-128683f0ff65)
 
-## result
 
-
+## result:
+   Thus the python program to print the string in multiline was executed successfully.
 
