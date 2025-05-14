@@ -14,11 +14,6 @@ STEP4: Terminate the program.
 
 ### PROGRAM
 ```
-python
-# Reg.No- 212222020008
-# Name- Harini B
-
-# Write your code here
 a=("I am a string literal\n... has more than one\n... line\n....placed inside triple single quotes")
 b=("I am a string literal\n... has more than one\n... line\n....placed inside triple double quotes")
 print(a)
