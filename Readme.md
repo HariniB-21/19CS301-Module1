@@ -22,7 +22,7 @@ print(b)
 ### Output
 ![image](https://github.com/user-attachments/assets/f18a737f-bfa8-453d-b2dd-128683f0ff65)
 
-### result:Thus the python program to print the string in multiline was executed successfully.
+### RESULT:Thus the python program to print the string in multiline was executed successfully.
 
 ExNo: 2- Data Types – Printing Integer Literals
 
