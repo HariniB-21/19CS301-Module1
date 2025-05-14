@@ -2,8 +2,7 @@
 # Register No - 212222020008
 # Name - Harini B
 
-Ex-No: 1 - Python Basics - Printing Multiline String
-
+# Ex-No: 1 - Python Basics - Printing Multiline String
 ### AIM: To Create a python program to print the string in multiline.
 
 ### ALGORITHM  
@@ -24,8 +23,7 @@ print(b)
 
 ### RESULT:Thus the python program to print the string in multiline was executed successfully.
 
-ExNo: 2- Data Types – Printing Integer Literals
-
+# ExNo: 2- Data Types – Printing Integer Literals
 ### AIM: To write a Python program to print the following integer literals: 12.
 
 ### ALGORITHM  
@@ -49,8 +47,7 @@ print(a)
 
 ### RESULT: Thus the Python program to print the following integer literals: 12 was executed sucessfully.
 
-ExNo: 3-Varibles and Expressions, Operators - python program for bitwise shift operators on the user given integers
-
+# ExNo: 3-Varibles and Expressions, Operators - python program for bitwise shift operators on the user given integers
 ### AIM: to Write a python program for bitwise shift operators on the user given integers
 
 ### ALGORITHM
@@ -80,8 +77,7 @@ print(a<<b)
 
 ### RESULT: Thus a python program for bitwise shift operators on the user given integers was executed successfully.
 
-ExNo: 4 – Conditional Statements- divisible by 11 0r not
-
+# ExNo: 4 – Conditional Statements- divisible by 11 0r not
 ### AIM: To Write a Python program to read a number and check whether the number is divisible by 11 or not using  if else
 
 ### ALGORITHM  
@@ -115,8 +111,7 @@ else:
 
 ### RESULT: Thus the Python program to read a number and check whether the number is divisible by 11 or not using  if else was implemented and executed successfully
 
-ExNo: 5 – SEB-Maximum of Three Numbers
-
+# ExNo: 5 – SEB-Maximum of Three Numbers
 ### AIM: To write a Python program to find the maximum between three integer numbers using a conditional expression (Ternary operator).
 
 ### ALGORITHM  
