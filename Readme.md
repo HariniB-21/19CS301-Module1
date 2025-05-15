@@ -1,8 +1,8 @@
-# 19CS301-Module9
+# 19CS301-Module1
 ### Register No - 212222020008
 ### Name - Harini B
 
-# ExNo: 9.1 - Python Basics - Printing Multiline String
+# ExNo: 1.1 - Python Basics - Printing Multiline String
 ### AIM: To Create a python program to print the string in multiline.
 
 ### ALGORITHM  
@@ -23,7 +23,7 @@ print(b)
 
 ### RESULT:Thus the python program to print the string in multiline was executed successfully.
 
-# ExNo: 9.2 - Data Types – Printing Integer Literals
+# ExNo: 1.2 - Data Types – Printing Integer Literals
 ### AIM: To write a Python program to print the following integer literals: 12.
 
 ### ALGORITHM  
@@ -47,7 +47,7 @@ print(a)
 
 ### RESULT: Thus the Python program to print the following integer literals: 12 was executed sucessfully.
 
-# ExNo: 9.3 -Varibles and Expressions, Operators - python program for bitwise shift operators on the user given integers
+# ExNo: 1.3 -Varibles and Expressions, Operators - python program for bitwise shift operators on the user given integers
 ### AIM: To Write a python program for bitwise shift operators on the user given integers
 
 ### ALGORITHM
@@ -77,7 +77,7 @@ print(a<<b)
 
 ### RESULT: Thus a python program for bitwise shift operators on the user given integers was executed successfully.
 
-# ExNo: 9.4 – Conditional Statements- divisible by 11 0r not
+# ExNo: 1.4 – Conditional Statements- divisible by 11 0r not
 ### AIM: To Write a Python program to read a number and check whether the number is divisible by 11 or not using  if else
 
 ### ALGORITHM  
@@ -111,7 +111,7 @@ else:
 
 ### RESULT: Thus the Python program to read a number and check whether the number is divisible by 11 or not using  if else was implemented and executed successfully
 
-# ExNo: 9.5 – SEB-Maximum of Three Numbers
+# ExNo: 1.5 – SEB-Maximum of Three Numbers
 ### AIM: To write a Python program to find the maximum between three integer numbers using a conditional expression (Ternary operator).
 
 ### ALGORITHM  
